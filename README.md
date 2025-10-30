@@ -91,9 +91,9 @@ https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
 --
 
 ## 📊 Screenshots
+<img width="1088" height="722" alt="dashboard_overview" src="https://github.com/user-attachments/assets/d2e064cb-d7bf-4c0a-8810-1edc323ea29e" />
 <img width="1045" height="633" alt="map_view" src="https://github.com/user-attachments/assets/d125aafc-b9f6-47de-9928-e5a9b07de092" />
 <img width="1066" height="550" alt="entities" src="https://github.com/user-attachments/assets/36573f88-7854-417f-8e0f-b242e0f5962d" />
-<img width="1088" height="722" alt="dashboard_overview" src="https://github.com/user-attachments/assets/d2e064cb-d7bf-4c0a-8810-1edc323ea29e" />
 <img width="1056" height="620" alt="breach_trends" src="https://github.com/user-attachments/assets/2a34eba6-2c43-4908-b65a-de7ced12419a" />
 
 
